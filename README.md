@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Sugey Huamani Vega</h1>
-<h3 align="center">Apasionada por el mundo de los datos y el Cloud Computing, cuento con sólidos conocimientos en SQL, Python, Pandas, PySpark, AWS, Snowflake y Power BI. </h3>
+<h3 align="center">Apasionada por el mundo de los datos y el Cloud Computing, cuento con sólidos conocimientos en SQL, Python, Pandas, PySpark, AWS, MySQL, ETL, Spark, Business Intelligence. </h3>
 
 - 💬 Ask me about **SQL, Python, Pandas, PySpark, AWS, Snowflake y Power BI**
 
